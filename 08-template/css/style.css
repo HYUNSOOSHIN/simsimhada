@@ -199,6 +199,7 @@ footer .inner .upper ul {
 }
 footer .inner .upper ul li {
   float: left;
+  margin-left: 20px;
 }
 footer .inner .upper ul li a {
   font: bold 14px/1 "arial";
